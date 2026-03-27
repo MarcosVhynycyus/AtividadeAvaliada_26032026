@@ -34,7 +34,7 @@ Liste e descreva **cada RN** de forma clara.
 ---
 
 # 3. Requisitos Funcionais (mínimo: 8)
-Liste os requisitos funcionais do seu MVP.
+Liste os requisitos funcionais do seu MVP (Minimal Viable Product).
 
 **RF01 —**  
 **RF02 —**  
